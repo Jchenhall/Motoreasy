@@ -1,0 +1,19 @@
+
+    
+    .pagination{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        list-style-type: none;
+         
+        &__pageList{
+            
+
+            &__num{
+                color: goldenrod;
+                font-size: 2vh;
+
+            }
+        }
+    }    
+  

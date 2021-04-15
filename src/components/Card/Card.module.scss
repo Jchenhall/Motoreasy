@@ -1,0 +1,36 @@
+.Card{
+  position: relative;
+    border: 5px solid black;
+    width: 250px;
+    height: 400px;
+    background: rgb(33,2,126);
+background: linear-gradient(147deg, rgba(33,2,126,1) 11%, rgba(255,255,255,1) 49%);
+border-radius: 10px;
+    
+        &__Brand{
+        color: red;
+        font-size:120%;
+          }
+    
+        &__List{
+        list-style: none;
+    
+            &__Label{
+            color: brown;
+            }
+    
+            &__Item{
+              color: rgb(33,2,126);
+            text-align: center;
+            }
+    
+        }
+
+        &__Image {
+          position: absolute;
+          
+          width: 77px;
+          right: 0;
+          bottom: 0;
+        }
+     }
