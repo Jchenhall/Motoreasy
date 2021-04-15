@@ -9,14 +9,14 @@ this will allow the app to run as intended.
 ## Packages used
 
 ### Client:
-Axios - Promise based HTTP client for the browser and node.js. I used this npm package to help interact with mongodb. 
-Scss - This packages was installed as a method for styling the front end.
+1. Axios - Promise based HTTP client for the browser and node.js. I used this npm package to help interact with mongodb. 
+2.Scss - This packages was installed as a method for styling the front end.
 
 ### Server:
-Cors/Express    -    Cors and Express are middleware packages used to help push information to the mongodb.
-Mongoose        -    Mongoose is a MongoDB object modeling tool designed to work in an asynchronous environment.
+1. Cors/Express    -    Cors and Express are middleware packages used to help push information to the mongodb.
+2. Mongoose        -    Mongoose is a MongoDB object modeling tool designed to work in an asynchronous environment.
                      Mongoose supports both promises and callbacks.
-Nodemon         -    Nodemon is a tool that helps develop node.js based applications by automatically restarting 
+3. Nodemon         -    Nodemon is a tool that helps develop node.js based applications by automatically restarting 
                      the node application when file changes in the directory are detected.
   
 
