@@ -10,7 +10,7 @@ this will allow the app to run as intended.
 
 ### Client:
 1. Axios - Promise based HTTP client for the browser and node.js. I used this npm package to help interact with mongodb.
-2. 2. Scss - This packages was installed as a method for styling the front end.
+2. Scss - This packages was installed as a method for styling the front end.
 
 ### Server:
 1. Cors/Express    -    Cors and Express are middleware packages used to help push information to the mongodb.
