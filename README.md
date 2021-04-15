@@ -50,6 +50,8 @@ As you can see if you are running the App, there is:
     - Another slider to filter the tyres by tyre size.
 
 - The final part to the data display manipulation was pagination.
+    - This was done by using state to store a max number of cards on one page and then adding the other pages via a pagination component so the user could cycle through at will.
+    - This method allowed the filtering to push all items that met the filtered criteria to the front page, incentivising the user to filter and thus speeding up the process of finding products they are looking for and making their experience better.
 
 
 
